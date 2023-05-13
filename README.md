@@ -1,4 +1,4 @@
-<h1>Bem vindo(a) ao meu perfil 👨‍💻</h1>
+<h1>Welcome to my profile 👨‍💻</h1>
 
 <div><br>
   <a href="https://github.com/Palc3301">
