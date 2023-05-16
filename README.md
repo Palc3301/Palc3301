@@ -1,11 +1,22 @@
 <h1>Welcome to my profile 👨‍💻</h1>
 
-<div><br>
-  <a href="https://github.com/Palc3301">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Palc3301&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palc3301&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Palc3301&show_icons=true&theme=midnight-purple"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+/>
+</picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palc3301&layout=compact&theme=midnight-purple" style="max-width: 100%;"></a>
+
+
   ##
 <div style="display: inline_block">
   <h3>Back-end</h3>
