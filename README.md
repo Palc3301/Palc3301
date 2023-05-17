@@ -12,9 +12,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 />
 </picture>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palc3301&layout=compact&theme=midnight-purple" style="max-width: 100%;"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palc3301&layout=compact&theme=midnight-purple" style="max-width: 100%;">
+</a>
 
 
   ##
