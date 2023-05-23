@@ -1,21 +1,10 @@
 <h1>Welcome to my profile 👨‍💻</h1>
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Palc3301&show_icons=true&theme=midnight-purple"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-/>
-</picture>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Palc3301&hide_title=true&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palc3301&layout=compact&theme=dark" />
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palc3301&layout=compact&theme=midnight-purple" style="max-width: 100%;">
-</a>
 
 
   ##
