@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Palc3301&hide_title=true&theme=midnight-purple" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palc3301&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palc3301&layout=compact&theme=midnight-purple" />
 </div>
 
 
